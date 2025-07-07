@@ -227,3 +227,7 @@ Impact of Devices on Listening Habits: Mobile vs. desktop vs. smart speaker usag
 Churn and Retention Rates Across Platforms: Understand why users leave or remain on certain services to refine user experience.
 Mood and Activity Tagging in Listening: Explore links between music consumption and user mood, activity, or mental state.
 Podcast vs. Music Preferences: As hybrid platforms rise, understanding this split could guide future content investments.
+
+References
+
+Kaggle.com
